@@ -1,6 +1,4 @@
-#This is my MVC Homework
-
-## This is a basic example of a MVC pattern
+## This is my MVC Homework
 ## This is for homework assignment #2
 
 This is for the class N315 and I'm going to upload this.
