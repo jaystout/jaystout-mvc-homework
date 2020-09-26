@@ -24,7 +24,8 @@ var MODEL = (function(){
         }
         
         else {
-            let text = "<h1>Home</h1>" + "<p>This is the home page, where home information is displayed." + "<img src='https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fred-yukon-gold-potatoes-difference.jpg%3Fitok%3Dz7bPTA69'>"
+            let text = "<h1>Home</h1>" + "<p>This is the home page, where home information is displayed.</p>" + 
+            "<img src='https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fred-yukon-gold-potatoes-difference.jpg%3Fitok%3Dz7bPTA69'>"
             ;
             return callback(text);
         }
